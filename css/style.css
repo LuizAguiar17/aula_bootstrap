@@ -1,0 +1,39 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navbar {
+    background-color: greenyellow;
+}
+
+.quem-somos {
+    background-color: rgb(56, 56, 56);
+    color: white;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.rounded-circle {
+    margin-top: 30px;
+}
+
+.container {
+    color: black;
+}
+
+.text {
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.servicos {
+    background-color: greenyellow;
+}
+
+.footer {
+    background-color: black;
+    color: grey;
+}
